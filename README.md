@@ -1,16 +1,22 @@
-# to_do_app
+# Todo App
 
-A new Flutter project.
+This is a simple Todo app built with Flutter and Firebase. It allows users to create, view, update, and delete todo items.
+
+## Features
+
+- Personalized todo lists: Each user has their own todo list, which is stored securely in Firebase Firestore.
+- Real-time updates: Todo items are synchronized in real-time across devices.
+
+## Technologies Used
+
+- Flutter: Flutter is Google's UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
+- Firebase: Firebase is a platform developed by Google for creating mobile and web applications. It provides a suite of tools for building and managing apps, including real-time database, cloud storage, and more.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run this app on your local machine, follow these steps:
 
-A few resources to get you started if this is your first Flutter project:
+1. Clone this repository:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+   ```bash
+   git clone https://github.com/your_username/todo_app.git
